@@ -12,7 +12,7 @@ exports.run = async (Bastion, message, args) => {
 const embed = new Discord.RichEmbed()
 
 .setColor("BLACK")
-.setDescription("**Doğru Kullanım**: +gif-ara <aranacak gif>");
+.setDescription("**Doğru Kullanım**: -gif-ara <aranacak gif>");
       
 return message.channel.send(embed);
       
