@@ -2,7 +2,7 @@ const Discord = require('discord.js')
 const moment = require('moment')
 const client = new Discord.Client();
 
-const botadi = "Gif World"
+const botadi = "Darknes Code"
 
 exports.run = async (bot, msg, args) => {
   
